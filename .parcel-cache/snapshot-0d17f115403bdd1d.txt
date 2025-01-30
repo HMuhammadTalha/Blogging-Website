@@ -1,0 +1,20 @@
+19
+49C:\Users\Talha\Desktop\Blogging-Website\README.md133826890205044952 0
+47C:\Users\Talha\Desktop\Blogging-Website\.github133827083335639090 1
+52C:\Users\Talha\Desktop\Blogging-Website\package.json133827111452979359 0
+44C:\Users\Talha\Desktop\Blogging-Website\dist133827111832783259 1
+50C:\Users\Talha\Desktop\Blogging-Website\.gitignore133827083335689028 0
+46C:\Users\Talha\Desktop\Blogging-Website\styles133827099070536099 1
+57C:\Users\Talha\Desktop\Blogging-Website\package-lock.json133827111633932784 0
+43C:\Users\Talha\Desktop\Blogging-Website\src133827103229300478 1
+55C:\Users\Talha\Desktop\Blogging-Website\styles\Blog.css133827099070506118 0
+60C:\Users\Talha\Desktop\Blogging-Website\styles\ContactUs.css133827099070526110 0
+55C:\Users\Talha\Desktop\Blogging-Website\styles\home.css133827099070536099 0
+53C:\Users\Talha\Desktop\Blogging-Website\src\Blog.html133827099070476125 0
+58C:\Users\Talha\Desktop\Blogging-Website\src\ContactUs.html133827099070486122 0
+53C:\Users\Talha\Desktop\Blogging-Website\src\home.html133827099070496123 0
+54C:\Users\Talha\Desktop\Blogging-Website\src\index.html133827103229300478 0
+55C:\Users\Talha\Desktop\Blogging-Website\dist\index.html133827111832753289 0
+57C:\Users\Talha\Desktop\Blogging-Website\.github\workflows133827083335669049 1
+81C:\Users\Talha\Desktop\Blogging-Website\.github\workflows\deploy-development.yaml133827083335649095 0
+76C:\Users\Talha\Desktop\Blogging-Website\.github\workflows\pr-validation.yaml133827083335669049 0
